@@ -18,4 +18,5 @@ The model was trained on a custom dataset to classify conditions with overlappin
 - Expand to multilingual input
 
 
-<img width="640" height="138" alt="image" src="https://github.com/user-attachments/assets/aaee07ae-c06e-495f-b140-518332bba66d" />
+<img width="640" height="138" alt="image" src="https://github.com/user-attachments/assets/146eb04d-2c16-4953-9592-3cdfdd18ed90" />
+
