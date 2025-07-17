@@ -16,3 +16,6 @@ The model was trained on a custom dataset to classify conditions with overlappin
 - API deployment (Flask/FastAPI)
 - UI integration (Streamlit or React)
 - Expand to multilingual input
+
+
+<img width="640" height="138" alt="image" src="https://github.com/user-attachments/assets/aaee07ae-c06e-495f-b140-518332bba66d" />
