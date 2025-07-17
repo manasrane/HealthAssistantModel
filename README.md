@@ -17,6 +17,6 @@ The model was trained on a custom dataset to classify conditions with overlappin
 - UI integration (Streamlit or React)
 - Expand to multilingual input
 
+<img width="613" height="113" alt="image" src="https://github.com/user-attachments/assets/3828eff1-f304-4aa8-982a-36cb7c2d7f2d" />
 
-<img width="640" height="138" alt="image" src="https://github.com/user-attachments/assets/146eb04d-2c16-4953-9592-3cdfdd18ed90" />
 
