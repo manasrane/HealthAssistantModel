@@ -1,5 +1,7 @@
 # 🩺 AI Health Assistant using BERT
 
+[HealthAssistant](https://github.com/manasrane/HealthAssistantModel)
+
 This project is an AI-powered Health Assistant that uses a fine-tuned `bert-base-uncased` model to predict possible diseases based on user-provided symptom descriptions.
 
 The model was trained on a custom dataset to classify conditions with overlapping symptoms — for example, distinguishing between the common cold and flu-like illnesses.
